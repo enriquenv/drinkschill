@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drinkschill/static/css/main.be7c8ae8.chunk.css",
+    "main.js": "/drinkschill/static/js/main.346b2fe1.chunk.js",
+    "main.js.map": "/drinkschill/static/js/main.346b2fe1.chunk.js.map",
+    "runtime-main.js": "/drinkschill/static/js/runtime-main.e58919ea.js",
+    "runtime-main.js.map": "/drinkschill/static/js/runtime-main.e58919ea.js.map",
+    "static/js/2.b437026e.chunk.js": "/drinkschill/static/js/2.b437026e.chunk.js",
+    "static/js/2.b437026e.chunk.js.map": "/drinkschill/static/js/2.b437026e.chunk.js.map",
+    "static/js/3.b8127c98.chunk.js": "/drinkschill/static/js/3.b8127c98.chunk.js",
+    "static/js/3.b8127c98.chunk.js.map": "/drinkschill/static/js/3.b8127c98.chunk.js.map",
+    "index.html": "/drinkschill/index.html",
+    "static/css/main.be7c8ae8.chunk.css.map": "/drinkschill/static/css/main.be7c8ae8.chunk.css.map",
+    "static/js/2.b437026e.chunk.js.LICENSE.txt": "/drinkschill/static/js/2.b437026e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e58919ea.js",
+    "static/js/2.b437026e.chunk.js",
+    "static/css/main.be7c8ae8.chunk.css",
+    "static/js/main.346b2fe1.chunk.js"
+  ]
+}
