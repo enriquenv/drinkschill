@@ -79,7 +79,7 @@ Nuestra aplicación esta construida con React, lo que significa que es rápida, 
 那么你还在等什么呢？试试我们的应用程序，现在就去发现饮料的世界吧!
 </details>
 
-## URL: https://enriquenv.github.io/drinkschill/
+## URL: https://poetic-starlight-988ebb.netlify.app/
 
 <p align="center">
   <img src="public/desktop.gif" alt="Demonstration on computer" /></br>
